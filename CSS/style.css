@@ -62,7 +62,7 @@
 .icon{
     width: 20px;
     height: 20px;
-    marg
+
 }
 
 .blockblanc{
@@ -218,17 +218,17 @@ width: 80%;
     scrollbar-width: thin;
 }
 
-.image{
+/* .image{
     display: flex;
     flex-direction: column;
     padding-top: 15px;
-    flex-wrap: wrap;
-}
+    flex-wrap: wrap; 
+} */
 .image1{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    height: 30px;
+    /* height: 30px; */
 
 }
 
@@ -236,7 +236,7 @@ width: 80%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    height: 30px;
+    /* height: 30px; */
   
 }
 
@@ -363,7 +363,7 @@ padding: 20px;
 }
 .pointInteret{
     width: 52%;
-    height: 120px;
+
     background: white;
     border-radius: 5px;
     padding: 20px;
@@ -372,7 +372,7 @@ padding: 20px;
 
 .blocklangues{
     width: 35%;
-     height: 130px; 
+
     background: white;
     margin-right: 1px;
     border-radius: 5px;
